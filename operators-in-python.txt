@@ -1,0 +1,40 @@
+Operations in python
++	add
+-	subtract
+* 	multiply
+/	divide
+//	divide (int)
+%	modulus
+**	exponent
+>	greater than
+<	less than
+==	equal to
+!=	not equal to
+>=	greater than or equal to
+<=	less than or equal to
+and	true if both operads are true
+or	true if either of the operands are true
+not	true if operand is false (and vice versa)
+&	bitwise and
+|	bitwise or
+~	bitwise not
+^	bitwise XOR
+>>	bitwise right shift
+<<	bitwise left shift
+
+=
++=
+-=
+*=
+/=
+%=
+//=
+**=
+&=
+|=
+^=
+>>=
+<<=
+
+in
+not in
